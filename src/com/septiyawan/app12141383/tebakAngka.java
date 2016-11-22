@@ -90,10 +90,10 @@ public class tebakAngka {
     
     public static void main(String[] args) {
         tebakAngka main = new tebakAngka();
-        System.err.println("Game Tebk Angka");
-        System.err.println("Septiyawan Nifthoh Syafi'i");
-        System.err.println("12141383");
-        System.err.println("================================");
+        System.out.println("Game Tebak Angka");
+        System.out.println("Septiyawan Nifthoh Syafi'i");
+        System.out.println("12141383");
+        System.out.println("================================");
         
         Scanner inputString = new Scanner(System.in);
         Scanner inputAngka = new Scanner(System.in);
